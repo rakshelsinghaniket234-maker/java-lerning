@@ -14,20 +14,23 @@ public class WhileOddSum{
 
                while(i<=n){
 
-                    if(n%2!=0){
+                    if(i%2!=0){
                 
                      sum = sum+i;
+                      
 
 
                                   }
+                          i++;
                  
-                       i++;
-
-
-
+                      
                }
+ 
+                 System.out.println(sum);
 
-                   System.out.println(sum);
+
+
+                   
 
         }
 

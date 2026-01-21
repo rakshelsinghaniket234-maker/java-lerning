@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Circle{
+public class RectangleC{
 
        float r;
 
@@ -30,15 +30,15 @@ class Circle{
 
                      float getCirc(){
   
-                           return 2*3.14f*r;
+                           return 2*3.14f*r*r;
 
 
                      }
 
 
-                        public static void main(String args[]){
+                        public static void main(String[]args){
 
-                               Circle k = new Circle();
+                               circle k = new circle();
 
                                k.acceptData();
 
