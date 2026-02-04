@@ -10,6 +10,6 @@ public class Multipal{
 
 }
 
-         Sysyem.out.println(product);
+         System.out.println(product);
    }
 }

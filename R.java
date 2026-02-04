@@ -1,4 +1,4 @@
-public class ArrayReverseNum {
+public class  {
     public static void main(String[]args){
      int[] arr = {45,18,7,56,83,17};
      int n = arr.length;
